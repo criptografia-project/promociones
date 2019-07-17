@@ -1,0 +1,28 @@
+{
+  "name": "promociones",
+  "version": "1.0.0",
+  "description": "microservicio de la aplicación \"actividad cultural\" que permite gestionar las funcionalidades referentes a las promociones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "Alejosebasp",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0",
+    "morgan": "^1.9.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arquitectura-software/promociones.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/arquitectura-software/promociones/issues"
+  },
+  "homepage": "https://github.com/arquitectura-software/promociones#readme"
+}
